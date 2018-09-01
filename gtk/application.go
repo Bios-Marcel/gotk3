@@ -10,7 +10,7 @@ import (
 	"runtime"
 	"unsafe"
 
-	"github.com/gotk3/gotk3/glib"
+	"github.com/Bios-Marcel/gotk3/glib"
 )
 
 // ApplicationInhibitFlags is a representation of GTK's GtkApplicationInhibitFlags.

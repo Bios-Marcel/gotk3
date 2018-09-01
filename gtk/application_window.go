@@ -9,7 +9,7 @@ import "C"
 import (
 	"unsafe"
 
-	"github.com/gotk3/gotk3/glib"
+	"github.com/Bios-Marcel/gotk3/glib"
 )
 
 /*

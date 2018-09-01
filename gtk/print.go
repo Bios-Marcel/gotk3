@@ -9,9 +9,9 @@ import (
 	"sync"
 	"unsafe"
 
-	"github.com/gotk3/gotk3/cairo"
-	"github.com/gotk3/gotk3/glib"
-	"github.com/gotk3/gotk3/pango"
+	"github.com/Bios-Marcel/gotk3/cairo"
+	"github.com/Bios-Marcel/gotk3/glib"
+	"github.com/Bios-Marcel/gotk3/pango"
 )
 
 func init() {

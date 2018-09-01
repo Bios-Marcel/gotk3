@@ -4,8 +4,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/gotk3/gotk3/glib"
-	"github.com/gotk3/gotk3/gtk"
+	"github.com/Bios-Marcel/gotk3/glib"
+	"github.com/Bios-Marcel/gotk3/gtk"
 )
 
 func init() {
